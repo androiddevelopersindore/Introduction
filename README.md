@@ -13,6 +13,28 @@ The group is free to attend and open to all who are interested in discussing and
 
 If you would like to stay up to date with events and activities of the group, please follow us on Google +, Facebook , Linkedin, Twitter.
   If you would like to take part in discussions about the group, future events, and future content, feel free to direct message us and/or visit with us at our monthly meetups.
+  
+  ##Contributoin Rule
+
+A person who want to contribute there code to our community, must follow following rules and regulation.
+
+1.	Must be a part of ADIG
+2.	Entry level knowledge of android. 
+3.	Attend regular meet up. 
+4.	must have skype id
+5.	Agree with Contributor License Agreement 
+
+## Running Projects
+1.	  SIP (session initiation protocol)
+2.	Firebase (notification)
+3.	Signal One
+4.	Android Location API
+
+## Up Coming Projects
+1.	Geo fencing 
+2.	Co- ordinator Layout
+3.	floting  animation 
+
 
 ##Disclaimer: 
 
