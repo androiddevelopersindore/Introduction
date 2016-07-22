@@ -14,7 +14,7 @@ The group is free to attend and open to all who are interested in discussing and
 If you would like to stay up to date with events and activities of the group, please follow us on Google +, Facebook , Linkedin, Twitter.
   If you would like to take part in discussions about the group, future events, and future content, feel free to direct message us and/or visit with us at our monthly meetups.
   
-  ##Contributoin Rule
+  ## Contributoin Rule
 
 A person who want to contribute there code to our community, must follow following rules and regulation.
 
