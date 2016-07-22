@@ -17,3 +17,7 @@ If you would like to stay up to date with events and activities of the group, pl
 ##Disclaimer: 
 
 (ADGI)Indore City  is an independent group; our activities and the opinions expressed here should in no way be linked to any IT company.
+
+##please fill the google form to be a part of Android Developer's Indore group
+
+http://goo.gl/forms/oyhE137aJgrA6yXE2
