@@ -20,4 +20,11 @@ If you would like to stay up to date with events and activities of the group, pl
 
 ##please fill the google form to be a part of Android Developer's Indore group
 
+
 http://goo.gl/forms/oyhE137aJgrA6yXE2
+
+##Social Presence
+facebook : 
+
+https://www.facebook.com/androiddevelopersindore/
+
