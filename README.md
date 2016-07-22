@@ -5,7 +5,7 @@
 
 Android Developers Group Indore (ADGI)Indore City is a technology user group that meets regularly to discuss the latest Mobile Technologies. The focus is on learning about the broad spectrum of technologies provided by Google and other technical companies. We are  finding ways that these technologies can be applied. This includes discussions of the technologies from a number of angles (start ups, corporations, and individuals). 
 
-##Here are a few of the topics that we have covered so far:
+##Here are a few of the topics that we will cover:
 
 SIP, Geo-fencing ,Google Map, Crashlyitics, Facebook Integration, Twitter Integration, Android Code convection for developer and designer and more ..  
 
